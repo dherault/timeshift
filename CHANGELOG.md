@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.2
+
+**Miscellaneous:**
+- Updated dependencies and added lockfile.
+
 ## 0.0.1
 
 **Bug fixes:**
